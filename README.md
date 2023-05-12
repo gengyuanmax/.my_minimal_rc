@@ -1,2 +1,2 @@
-# my_minimal_rc
+# About this repo
 Minimal rc files for me.
